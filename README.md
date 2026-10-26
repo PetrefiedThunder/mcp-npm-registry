@@ -46,4 +46,4 @@ npx mcp-npm-registry
 
 ## License
 
-MIT
+Apache-2.0
